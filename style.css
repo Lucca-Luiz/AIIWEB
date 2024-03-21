@@ -1,0 +1,153 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #020318;
+    width: auto;
+    height: auto;
+    
+}
+
+.header{
+    display: flex;
+    width: 1920px;
+    height: 154px;
+    background: #05072f;
+    border: none;
+    
+}
+
+.primeiro{
+    
+    font-family: "Montserrat", sans-serif;
+    font-size: 40px;
+    font-weight: bold;
+    color: aliceblue;
+    width: 314px;
+    height: 41px;
+    margin-top:  62px;
+    margin-left:  62px;
+
+}
+
+.segundo{
+    display: flex;
+    margin-left:  300px;
+    margin-top:  55px;
+}
+
+.segundo a{
+    font-family: "Montserrat", sans-serif;
+    font-weight: bolder;
+    font-size: 18px;
+    color: aliceblue;
+    padding: 15px;
+    text-decoration: none;
+}
+
+.terceiro{
+    display: flex;
+    margin-left: 350px;
+    margin-top: 55px;
+}
+
+.terceiro a{
+    font-family: "Montserrat", sans-serif;
+    font-weight: bolder;
+    font-size: 18px;
+    color: aliceblue;
+    padding: 15px;
+    text-decoration: none;
+}
+#red{
+    color: #CF092D;
+}
+
+
+
+.box-img{
+    display: flex;
+    width: 895px;
+    height: 900px;
+    top: 154px;
+    left: 1025px;
+    margin-left: 195px;
+
+    
+
+}
+
+h2{
+    display: flex;
+    margin-top: 50px;
+    margin-left:  83px;
+    font-family: "Montserrat", sans-serif;
+    font-weight: bolder;
+    color: aliceblue;
+    font-size: 120px;
+}
+h3{
+    display: flex;
+    margin-top: 0%;
+    margin-left:  83px;
+    font-family: "Montserrat", sans-serif;
+    font-weight: bolder;
+    color: aliceblue;
+    font-size: 120px;
+
+}
+h4{
+    font-family: "Montserrat", sans-serif;
+    font-weight: bolder;
+    color: aliceblue;
+    font-size: 30px;
+    margin-left: 83px;
+    display: flex;
+    margin-top: 0px;
+}
+
+.now{
+    width: 329px;
+    height: 101px;
+    margin-top: 10px;
+    margin-left: 80px;
+    border-radius: 45.19px;
+    padding: 10.33px, 20.66px, 10.33px, 20.66px;
+    background-color: #CF092D;
+    font-size: 25px;
+    color: white;
+}
+
+.start{
+    width: 329px;
+    height: 101px;
+    margin-top: 10px;
+    margin-left: 85px;
+    border-radius: 45.19px;
+    padding: 10.33px, 20.66px, 10.33px, 20.66px;
+    background-color: #410093;
+    font-size: 25px;
+    color: white;
+}
+
+footer{
+    display: flex;
+    width: 1924px;
+    height: 100px;
+    background-color: #05072f;
+    
+}
+
+.final{
+    font-family: "Montserrat", sans-serif;
+    font-size: 30px;
+    color: white;
+    margin-left: 800px;
+    margin-top: 50px;
+    
+}
+
+.main {
+    display: flex;
+    flex-direction: row;
+    
+}
